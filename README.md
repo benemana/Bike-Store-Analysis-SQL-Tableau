@@ -1,6 +1,6 @@
 # Bike-Store-Analysis-SQL-Tableau
 
-Analysis of revenues for a bike store, done in SQL and Tableau.
+Analysis of revenues for a bike store, done in SQL, Excel and Tableau.
 
 Main steps:
 
